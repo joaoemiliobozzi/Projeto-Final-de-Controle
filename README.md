@@ -2,10 +2,14 @@
 Projeto final da disciplina Sistema de Controle da Engenharia Aeronáutica EESC-USP
 
 Grupo: 
-Breno Valença - 13730916;
-João Emílio Bozzi - 13673534;
-Renan Giovani Ferneda - 13673472;
-Vinicius Formigone dos Santos - 13673576;
+Breno Valença - 13730916
+
+João Emílio Bozzi - 13673534
+
+Renan Giovani Ferneda - 13673472
+
+Vinicius Formigone dos Santos - 13673576
+
 
 Professor Glauco Augusto de Paula Caurin;
 Monitor Saulo Paz Almeida
